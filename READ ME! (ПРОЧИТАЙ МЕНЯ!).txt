@@ -1,0 +1,9 @@
+Первым делом откройте "ravena dll injector (open it).sln", затем компилируйте в Release x64
+Спасибо за скачивание, удачи в создании читов и модификаций!
+									      ravena
+
+-------------------------------------------------------------------------------------------
+
+First, open 'ravena dll injector (open it).sln', then compile it in Release x64.
+Thank you for downloading, good luck in creating cheats and modifications!
+									      ravena
